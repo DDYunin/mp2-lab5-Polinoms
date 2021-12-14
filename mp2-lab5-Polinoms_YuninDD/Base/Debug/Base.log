@@ -1,0 +1,11 @@
+﻿  Polinom.cpp
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Polinom.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Polinom.cpp(85,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Polinom.cpp(231,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Polinom.cpp(373,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Sample.cpp
+  Store.cpp
+  Создание кода...
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Monom.h(192): warning C4715: operator<<: значение возвращается не при всех путях выполнения
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Base\Monom.h(68): warning C4715: Monom::operator<: значение возвращается не при всех путях выполнения
+  Base.vcxproj -> D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\Debug\Base_polinoms.exe

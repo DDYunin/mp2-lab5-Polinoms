@@ -1,0 +1,2 @@
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\gtest\Debug\gtest.lib
+D:\Yunin D.D. AuSD\mp2-lab5-Polinoms\mp2-lab5-Polinoms_YuninDD\gtest\Debug\gtest.pdb
